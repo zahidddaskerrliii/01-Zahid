@@ -1,0 +1,110 @@
+.navbar {
+  background-color: #12cc82 !important;
+  padding: 20px;
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+
+.heading {
+  font-size: 100px;
+  text-align: center;
+  color: white
+}
+
+.box {
+  background: url(https://st3.depositphotos.com/8911320/33966/i/450/depositphotos_339665118-stock-photo-render-modern-office-interior.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px;
+}
+
+.pricing-plan {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+.plan-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.price {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.users {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.cta-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.cards {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.c-btn {
+  background-color: #12cc82;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.card {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #e8e8e8;
+  border: none
+}
+
+.events {
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+.event {
+  text-align: center;
+}
+
+.community {
+  text-align: center;
+  margin-top: 100px;
+}
+.logos img{
+  width: 50px;
+}
+.logos{
+  display: flex;
+  justify-content: space-evenly;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: #12cc82;
+  color: white;
+  
+}
+
